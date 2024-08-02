@@ -11,13 +11,12 @@ Traversing Arrays                    ___/
 
 Iterating through arrays using loops  ___/
 Common traversal techniques            ___/
-Array Insertion and Deletion
+Array Insertion and Deletion             ___/
 
-Insert an element at a specific position
-Delete an element from a specific position
-Handling array boundaries and shifting elements
+Insert an element at a specific position   ___/
+Delete an element from a specific position   ___/
+Handling array boundaries and shifting elements  
 
-Searching in Arrays
 ----------------------
 
 Linear search

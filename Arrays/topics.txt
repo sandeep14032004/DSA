@@ -1,0 +1,141 @@
+Basic Array Operations
+----------------------
+Introduction to Arrays
+----------------------
+
+
+Definition and basic properties
+Declaration and initialization
+Accessing and modifying elements
+Traversing Arrays
+
+Iterating through arrays using loops
+Common traversal techniques
+Array Insertion and Deletion
+
+Insert an element at a specific position
+Delete an element from a specific position
+Handling array boundaries and shifting elements
+
+Searching in Arrays
+----------------------
+
+Linear search
+Binary search (for sorted arrays)
+Time complexity analysis
+
+Sorting Algorithms
+----------------------
+
+Bubble sort
+Selection sort
+Insertion sort
+Merge sort
+Quick sort
+Time and space complexity analysis
+
+
+
+Intermediate Array Operations
+----------------------
+
+Two-Dimensional Arrays
+Declaration and initialization
+Accessing and modifying elements
+Traversing 2D arrays
+
+Array Rotation
+----------------------
+
+Rotate an array by k positions
+Left and right rotations
+Reversal algorithm for array rotation
+Array Reversal
+
+Reversing an array in place
+Using recursion for array reversal
+
+Prefix Sum and Suffix Sum
+----------------------
+
+Calculating prefix sums
+Calculating suffix sums
+Applications in range queries
+
+Subarrays and Subsequences
+----------------------
+
+Generating all subarrays
+Generating all subsequences
+Maximum subarray sum (Kadane's Algorithm)
+Advanced Array Operations
+
+Searching and Sorting Advanced
+----------------------
+
+Counting sort
+Radix sort
+Bucket sort
+
+Array Partitioning
+----------------------
+
+Partitioning based on a pivot (Quick sort partitioning)
+Dutch National Flag problem
+
+Sliding Window Technique
+----------------------
+
+Fixed-size sliding window
+Variable-size sliding window
+Applications in finding maximum/minimum in subarrays
+
+Two-Pointer Technique
+----------------------
+
+Pair with given sum
+Triplet with given sum
+Sorting array of 0s, 1s, and 2s
+
+Array Manipulation Problems
+----------------------
+
+Merge intervals
+Maximum product subarray
+Trapping rainwater problem
+Longest increasing subsequence
+Special Array Topics
+
+Sparse Arrays
+----------------------
+
+Definition and applications
+Efficient storage and retrieval
+
+Multi-dimensional Arrays
+----------------------
+
+Higher dimensional arrays (3D arrays and beyond)
+Practical applications and usage
+
+Dynamic Arrays (ArrayList in Java)
+----------------------
+
+Understanding dynamic arrays
+Differences between arrays and ArrayLists
+Common operations and usage
+Practice Problems
+
+Classic Problems
+----------------------
+
+Finding duplicates in an array
+Finding missing number in an array
+Majority element problem
+Finding common elements in two arrays
+Competitive Programming Problems
+
+Rotating matrix (90 degrees)
+Spiral order traversal of a matrix
+Merge k sorted arrays
+Subarray with given sum

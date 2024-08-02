@@ -15,12 +15,12 @@ Array Insertion and Deletion             ___/
 
 Insert an element at a specific position   ___/
 Delete an element from a specific position   ___/
-Handling array boundaries and shifting elements  
+Handling array boundaries and shifting elements   ___/
 
 ----------------------
 
-Linear search
-Binary search (for sorted arrays)
+Linear search  ___/
+Binary search (for sorted arrays) 
 Time complexity analysis
 
 Sorting Algorithms

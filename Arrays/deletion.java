@@ -20,10 +20,10 @@ public class deletion {
         }
         if (pos == -1)
             return arr;
-        return deletion(arr, pos);
+        return Deletion(arr, pos);
     }
 
-    public static int[] deletion(int arr[], int pos) {
+    public static int[] Deletion(int arr[], int pos) {
         int[] newArray = new int[arr.length - 1];
         for (int i = 0; i < pos; i++) {
             newArray[i] = arr[i];

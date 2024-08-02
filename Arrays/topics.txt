@@ -4,13 +4,13 @@ Introduction to Arrays
 ----------------------
 
 
-Definition and basic properties
-Declaration and initialization
-Accessing and modifying elements
-Traversing Arrays
+Definition and basic properties     ___/
+Declaration and initialization       ___/
+Accessing and modifying elements     ___/
+Traversing Arrays                    ___/
 
-Iterating through arrays using loops
-Common traversal techniques
+Iterating through arrays using loops  ___/
+Common traversal techniques            ___/
 Array Insertion and Deletion
 
 Insert an element at a specific position

@@ -1,4 +1,3 @@
-package Arrays;
 
 public class insertionLast {
     public static void main(String[] args) {

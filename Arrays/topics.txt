@@ -1,140 +1,70 @@
-Basic Array Operations
-----------------------
-Introduction to Arrays
-----------------------
+1. Basics of Arrays
 
+Declaring, initializing, and accessing arrays.___//
+Types of arrays: 1D, 2D, and multi-dimensional arrays.____///
+Array manipulation: inserting, deleting, and updating elements.___//
+Traversing arrays using loops.____///
 
-Definition and basic properties     ___/
-Declaration and initialization       ___/
-Accessing and modifying elements     ___/
-Traversing Arrays                    ___/
+2. Array Operations
+Finding the maximum and minimum element._____////
+Calculating the sum and average of elements._____///
+Reversing an array.___///
+Rotating an array (left or right rotation).
+Searching for an element in an array (linear search, binary search).
 
-Iterating through arrays using loops  ___/
-Common traversal techniques            ___/
-Array Insertion and Deletion             ___/
+3. Sorting Algorithms
+Bubble Sort
+Selection Sort
+Insertion Sort
+Merge Sort
+Quick Sort
+Counting Sort
+Radix Sort
 
-Insert an element at a specific position   ___/
-Delete an element from a specific position   ___/
-Handling array boundaries and shifting elements   ___/
+4. Two-pointer Technique
+Pair with a given sum.
+Finding triplets with zero sum.
+Moving zeroes to the end.
+Merging two sorted arrays.
+Removing duplicates from a sorted array.
 
-----------------------
+5. Sliding Window Technique
+Maximum sum subarray of size k.
+Smallest subarray with a given sum.
+Longest subarray with a sum less than or equal to k.
 
-Linear search  ___/
-Binary search (for sorted arrays) 
-Time complexity analysis
+6. Kadane’s Algorithm
+Maximum sum subarray problem (continuous subarray).
 
-Sorting Algorithms
-----------------------
+7. Matrix Problems
+Matrix rotation (90 degrees, 180 degrees).
+Spiral traversal of a matrix.
+Searching in a sorted matrix.
+Transpose of a matrix.
 
-Bubble sort
-Selection sort
-Insertion sort
-Merge sort
-Quick sort
-Time and space complexity analysis
+8. Prefix Sum and Difference Array
+Prefix sum array for range queries.
+Difference array for range updates.
+Finding equilibrium index.
 
+9. Advanced Array Problems
+Next greater element in an array.
+Trapping Rain Water problem.
+Maximum product subarray.
+Subarray with a given sum (non-negative and mixed arrays).
+Longest increasing subsequence.
+Majority element (element appearing more than n/2 times).
+Stock buy and sell problem (multiple transactions).
+Rearranging array elements alternatively (max/min order).
 
+10. Hashing with Arrays
+Count distinct elements in an array.
+Longest subarray with sum k.
+Check if two arrays are equal.
+Intersection and union of two arrays.
 
-Intermediate Array Operations
-----------------------
-
-Two-Dimensional Arrays
-Declaration and initialization
-Accessing and modifying elements
-Traversing 2D arrays
-
-Array Rotation
-----------------------
-
-Rotate an array by k positions
-Left and right rotations
-Reversal algorithm for array rotation
-Array Reversal
-
-Reversing an array in place
-Using recursion for array reversal
-
-Prefix Sum and Suffix Sum
-----------------------
-
-Calculating prefix sums
-Calculating suffix sums
-Applications in range queries
-
-Subarrays and Subsequences
-----------------------
-
-Generating all subarrays
-Generating all subsequences
-Maximum subarray sum (Kadane's Algorithm)
-Advanced Array Operations
-
-Searching and Sorting Advanced
-----------------------
-
-Counting sort
-Radix sort
-Bucket sort
-
-Array Partitioning
-----------------------
-
-Partitioning based on a pivot (Quick sort partitioning)
-Dutch National Flag problem
-
-Sliding Window Technique
-----------------------
-
-Fixed-size sliding window
-Variable-size sliding window
-Applications in finding maximum/minimum in subarrays
-
-Two-Pointer Technique
-----------------------
-
-Pair with given sum
-Triplet with given sum
-Sorting array of 0s, 1s, and 2s
-
-Array Manipulation Problems
-----------------------
-
-Merge intervals
-Maximum product subarray
-Trapping rainwater problem
-Longest increasing subsequence
-Special Array Topics
-
-Sparse Arrays
-----------------------
-
-Definition and applications
-Efficient storage and retrieval
-
-Multi-dimensional Arrays
-----------------------
-
-Higher dimensional arrays (3D arrays and beyond)
-Practical applications and usage
-
-Dynamic Arrays (ArrayList in Java)
-----------------------
-
-Understanding dynamic arrays
-Differences between arrays and ArrayLists
-Common operations and usage
-Practice Problems
-
-Classic Problems
-----------------------
-
-Finding duplicates in an array
-Finding missing number in an array
-Majority element problem
-Finding common elements in two arrays
-Competitive Programming Problems
-
-Rotating matrix (90 degrees)
-Spiral order traversal of a matrix
-Merge k sorted arrays
-Subarray with given sum
+11. Dynamic Programming with Arrays
+Longest increasing subsequence (LIS).
+Maximum sum increasing subsequence.
+Longest common subsequence (LCS).
+Subset sum problem.

@@ -8,14 +8,29 @@
 class Solution {
     public int maxProfit(int[] prices) {
         int maxProfit = 0;
-        for (int i = 0; i < prices.length; i++) {
-            for (int j = i + 1; j < prices.length; j++) {
-                if (prices[j] - prices[i] > maxProfit) {
-                    maxProfit = prices[j] - prices[i];
-                }
-            }
+        int n = prices.length;
+        int minSofar = prices[0];
+        for (int i = 0; i < n; i++) {
+            minSofar = Math.min(minSofar, prices[i]);
+            int profit = prices[i] - minSofar;
+            maxProfit = Math.max(maxProfit, profit);
         }
+
         return maxProfit;
     }
 }
 // @lc code=end
+
+// public int maxProfit(int[] prices) {
+// int maxProfit = 0;
+// int n = prices.length;
+// int dupl[] = new int[n];
+// dupl[n - 1] = prices[n - 1];
+// for (int i = n - 2; i >= 0; i--) {
+// dupl[i] = Math.max(dupl[i + 1], prices[i]);
+// }
+// for (int i = 0; i < n - 1; i++) {
+// maxProfit = Math.max(maxProfit, dupl[i + 1] - prices[i]);
+// }
+// return maxProfit;
+// }

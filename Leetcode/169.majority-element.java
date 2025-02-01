@@ -5,7 +5,7 @@
  */
 
 // @lc code=start
-
+//nums = [2 , 2 , 1 , 3 , 1 , 2 , 2]
 class Solution {
     public int majorityElement(int[] nums) {
         int majorityElement = nums[0], votes = 1;

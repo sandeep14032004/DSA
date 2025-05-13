@@ -1,0 +1,6 @@
+  for(int i = ; i <= ; i++){
+            for(int j = ; j <= ; j++){
+                System.out.print("* ");
+            }
+            System.out.println();
+        }

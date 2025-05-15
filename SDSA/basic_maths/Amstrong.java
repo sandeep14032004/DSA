@@ -10,14 +10,14 @@ public class Amstrong {
 
     public static boolean isAmstrong(int n) {
         int nDigit = countDigit(n);
-        int temp = n;
-        int not = 0;
+        int original = n;
+        int sum = 0;
         while (n != 0) {
             int lastDigit = (int) Math.pow((n % 10), nDigit);
-            not += lastDigit;
+            sum += lastDigit;
             n /= 10;
         }
-        return temp == not;
+        return original == sum;
     }
 
     public static void main(String[] args) {

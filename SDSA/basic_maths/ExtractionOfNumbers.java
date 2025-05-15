@@ -1,4 +1,4 @@
-public class ExtractionOfNumbers {
+public class ExtractionOfNumbers {// also print in reverse order
 
     public static void main(String[] args) {
         int n = 1223;

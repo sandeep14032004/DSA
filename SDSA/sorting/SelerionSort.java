@@ -7,14 +7,12 @@ public class SelerionSort {
                 if (arr[j] < arr[min]) {
                     min = j;
                 }
-
             }
             int temp = arr[i];
             arr[i] = arr[min];
             arr[min] = temp;
         }
         return arr;
-
     }
 
     public static void main(String[] args) {

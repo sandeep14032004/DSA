@@ -1,4 +1,4 @@
-public class LeftRotateBruteForce {
+public class LeftRotateByOnce {
     public static int[] rotateArr(int arr[]) {
         int first = arr[0];
 

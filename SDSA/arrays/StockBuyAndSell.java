@@ -1,6 +1,5 @@
 public class StockBuyAndSell {
     public static int Mareket(int arr[]) {
-        int n = arr.length;
         int profit = 0;
         for (int i = 0; i < arr.length; i++) {
             for (int j = i; j < arr.length; j++) {
